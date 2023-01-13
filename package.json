@@ -7,8 +7,8 @@
   "author": "Al Mamun Khan <almamunkhan09@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.0.3",
-    "monkeylearn": "^3.4.0"
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.19.1",
