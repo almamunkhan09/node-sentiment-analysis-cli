@@ -15,6 +15,14 @@ This node js cli analyze your sentiment and emotion. Sounds interesting? Lets tr
 
 [Documentation](https://linktodocumentation)
 
+To run this application you need a .env file in the codebase. The content for the .env file is as folows
+
+```
+    APIKEY="<API key. You will get the api by https://www.twinword.com/api/sentiment-analysis.php >"
+    MAPIKEY="API key. You will get it from https://monkeylearn.com/sentiment-analysis/"
+
+```
+
 Just provide the text or file name you will get the sentiment and emotions. This cli does not support getting files from your device. It now supporting only files exists in codebase. There is a file inside the codebase named hello.txt
 
 The file includes the text "Buy the shoes. It’s okay, screw the budget, that’s not this year’s resolution. You deserve this. When the saleswoman asks you if you’ve done much running, laugh and gesture to your mid-section. The woman will blink, force out a half-baked hah. It’s a reaction of discomfort, not cruelty; you made it weird. You don’t know why you feel the need to shame your own body in front of a stranger, but you blame it on her lululemon leggings and air-hostess smile. She makes you nervous. Most people do.
