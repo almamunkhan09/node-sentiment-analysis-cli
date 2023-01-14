@@ -13,8 +13,6 @@ This node js cli analyze your sentiment and emotion. Sounds interesting? Lets tr
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
 To run this application you need a .env file in the codebase. The content for the .env file is as folows
 
 ```
